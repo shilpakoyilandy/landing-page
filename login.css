@@ -1,0 +1,22 @@
+.form{
+    height: 341px;
+    width: 30%;
+    margin-left: 90px;
+}.textbox{
+    height: 25px;
+    width: 250px;
+}.login{
+    margin-top: 10px;
+    height: 32px;
+    color: white;
+    width: 255px;
+    background-color: cornflowerblue;
+}.imgdiv{
+    height: 167px;
+    margin-bottom: 24px;
+}
+.img{
+    height: 165px;
+    margin-left: 70px;
+    
+}

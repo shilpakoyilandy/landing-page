@@ -1,0 +1,36 @@
+form{
+    text-align: center;
+    background-color: rgb(207, 203, 203);
+}
+.textbox{
+    height: 30px;
+    width: 300px;
+}.drop{
+    width: 24%;
+    padding-top: 14px;
+    height: 35px;
+    padding-left: -42px;
+    margin-left: 521px;
+    display: flex;
+}.label{
+    padding-top: 6px;
+}.zip{
+    width: 116px;
+    margin-left: 6px;
+}.head{
+    margin-bottom: 97px;
+}.radio{
+    width: 24%;
+    padding-top: 14px;
+    height: 35px;
+    margin-left: 446px;
+}.check{
+    width: 24%;
+    height: 35px;
+    margin-left: 480px;
+}.submit{
+    width: 112px;
+    height: 35px;
+    margin-left:445 ;
+    color: white;
+    background-color: yellowgreen;}
